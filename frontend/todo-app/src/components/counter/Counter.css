@@ -1,0 +1,35 @@
+.counterButton {
+  font-size: 16px;
+  background-color: #00a5ab;
+  width: 100px;
+  margin: 10px;
+  color: white;
+  padding: 15px;
+  border-radius: 30px;
+  border: 1px solid black; /* пример рамки вокруг кнопок */
+}
+
+.count {
+  font-size: 50px;
+  padding: 20px;
+}
+
+.totalCount {
+  color: #00a5ab;
+  font-size: 150px;
+}
+
+.resetButton {
+  background-color: #824f8c;
+  color: white;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.resetButton:hover {
+  background-color: #6a3c70;
+}
